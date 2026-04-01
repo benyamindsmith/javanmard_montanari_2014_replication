@@ -1,6 +1,6 @@
 # Simulation and Data Analysis Codes for "Confidence Intervals and Hypothesis Testing for High-Dimensional Regression: A Review and Discussion"
 
-This repository contains the replication codes for the report "Confidence Intervals and Hypothesis Testing for High-Dimensional Regression: A Review and Discussion" by Benjamin Smith.
+This repository contains the replication codes for the report "Confidence Intervals and Hypothesis Testing for High-Dimensional Regression: A Review and Discussion" by Benjamin Smith. For the report, see [here](https://github.com/phd-statistics/sta3000-report/blob/main/report.pdf).
 
 To ensure a smooth replication experience, please clone the repository and install the required packages listed below:
 
